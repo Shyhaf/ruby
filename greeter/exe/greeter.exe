@@ -1,6 +1,0 @@
-cat bin/greeter
-#!/usr/bin/env ruby
- 
-require 'greeter'
- 
-Greeter.hello

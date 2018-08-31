@@ -1,5 +1,6 @@
 
 Gem::Specification.new do |s|
+
  
  s.name        = 'greeter'
  
@@ -22,5 +23,8 @@ Gem::Specification.new do |s|
  s.bindir      = 'exe'  
  s.executables << 'greeter'
  
+ 
 end
+
+
 
